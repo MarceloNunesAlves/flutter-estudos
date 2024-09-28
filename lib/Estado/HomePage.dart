@@ -1,4 +1,3 @@
-import 'package:estudo/Inicio/HomePageController.dart';
 import 'package:flutter/material.dart';
 import 'DemoBottomAppBar.dart';
 
@@ -50,6 +49,6 @@ class _HomepageState extends State<Homepage> {
           ])
       ),
       bottomNavigationBar: DemoBottomAppBar(),
-    );;
+    );
   }
 }
